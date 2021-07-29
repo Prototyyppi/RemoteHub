@@ -1,0 +1,6 @@
+[submodule "dependency/mbedtls"]
+	path = dependency/mbedtls
+	url = https://github.com/ARMmbed/mbedtls.git
+[submodule "dependency/cJSON"]
+	path = dependency/cJSON
+	url = https://github.com/DaveGamble/cJSON.git

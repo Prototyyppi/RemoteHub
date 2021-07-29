@@ -1,0 +1,5 @@
+{
+	"config_version": 1,
+	"use_tls": true,
+	"ca_path": "/path/to/RemoteHub/example/tls_certs/rootCA.crt"
+}

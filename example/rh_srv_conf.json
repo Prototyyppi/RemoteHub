@@ -1,0 +1,18 @@
+{
+	"config_version": 1,
+	"server_name": "RemoteHub server",
+	"use_tls": true,
+	"port": 3240,
+	"bcast_enabled": true,
+	"cert_path": "/path/to/RemoteHub/example/tls_certs/RemoteHub.crt",
+	"key_path": "/path/to/RemoteHub/example/tls_certs/RemoteHub.key",
+	"key_pass": "test",
+	"disable_array": [
+		{
+			"bus": 30
+		},
+		{
+			"bus": 40
+		}
+	]
+}
